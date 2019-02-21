@@ -11,7 +11,7 @@
 
   <name>demo</name>
   <!-- FIXME change it to the project's website -->
-< HEAD
+<HEAD>
   <url>http://www.exampleCorrectif.com</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
